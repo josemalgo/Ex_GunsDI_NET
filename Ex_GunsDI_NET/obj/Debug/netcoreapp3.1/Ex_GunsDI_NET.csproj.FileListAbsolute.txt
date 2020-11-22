@@ -1,0 +1,13 @@
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_GunsDI_NET\Ex_GunsDI_NET\bin\Debug\netcoreapp3.1\Ex_GunsDI_NET.exe
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_GunsDI_NET\Ex_GunsDI_NET\bin\Debug\netcoreapp3.1\Ex_GunsDI_NET.deps.json
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_GunsDI_NET\Ex_GunsDI_NET\bin\Debug\netcoreapp3.1\Ex_GunsDI_NET.runtimeconfig.json
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_GunsDI_NET\Ex_GunsDI_NET\bin\Debug\netcoreapp3.1\Ex_GunsDI_NET.runtimeconfig.dev.json
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_GunsDI_NET\Ex_GunsDI_NET\bin\Debug\netcoreapp3.1\Ex_GunsDI_NET.dll
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_GunsDI_NET\Ex_GunsDI_NET\bin\Debug\netcoreapp3.1\Ex_GunsDI_NET.pdb
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_GunsDI_NET\Ex_GunsDI_NET\obj\Debug\netcoreapp3.1\Ex_GunsDI_NET.csprojAssemblyReference.cache
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_GunsDI_NET\Ex_GunsDI_NET\obj\Debug\netcoreapp3.1\Ex_GunsDI_NET.AssemblyInfoInputs.cache
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_GunsDI_NET\Ex_GunsDI_NET\obj\Debug\netcoreapp3.1\Ex_GunsDI_NET.AssemblyInfo.cs
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_GunsDI_NET\Ex_GunsDI_NET\obj\Debug\netcoreapp3.1\Ex_GunsDI_NET.csproj.CoreCompileInputs.cache
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_GunsDI_NET\Ex_GunsDI_NET\obj\Debug\netcoreapp3.1\Ex_GunsDI_NET.dll
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_GunsDI_NET\Ex_GunsDI_NET\obj\Debug\netcoreapp3.1\Ex_GunsDI_NET.pdb
+D:\JOSE\Documents\IT_ACADEMY\C#\Ex_GunsDI_NET\Ex_GunsDI_NET\obj\Debug\netcoreapp3.1\Ex_GunsDI_NET.genruntimeconfig.cache

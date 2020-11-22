@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ex_GunsDI_NET/1.0.0": {
+        "runtime": {
+          "Ex_GunsDI_NET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex_GunsDI_NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
